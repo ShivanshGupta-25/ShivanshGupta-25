@@ -1,6 +1,6 @@
 <p align="center">
 <img
-src="https://raw.githubusercontent.com/ShivanshGupta-25/ShivanshGupta-25/assets/banner.png"
+src="https://raw.githubusercontent.com/ShivanshGupta-25/ShivanshGupta-25/assets/shivanshguptabanner.png"
 width="100%"
 alt="Banner"/>
 </p>
