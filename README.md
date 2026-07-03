@@ -49,12 +49,61 @@
 
 ---
 
-# 🔥 GitHub Streak
+# 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=ShivanshGupta-25&theme=tokyonight"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShivanshGupta-25&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshGupta-25&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
+<p align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=ShivanshGupta-25&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShivanshGupta-25&theme=tokyo-night"/>
+
+</p>
+
+<p align="center">
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivanshGupta-25&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivanshGupta-25&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivanshGupta-25&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivanshGupta-25&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShivanshGupta-25&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/ShivanshGupta-25/ShivanshGupta-25/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ShivanshGupta-25&theme=tokyonight&row=2&column=4"/>
+
+</p>
 ---
 
 # 📈 Contribution Graph
