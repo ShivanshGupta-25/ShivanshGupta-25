@@ -1,8 +1,5 @@
 <p align="center">
-<img
-src="https://raw.githubusercontent.com/ShivanshGupta-25/ShivanshGupta-25/assets/shivanshguptabanner.png"
-width="100%"
-alt="Banner"/>
+<img src="./assets/shivanshguptabanner.png"/>
 </p>
 
 # Hi 👋, I'm Shivansh Gupta
