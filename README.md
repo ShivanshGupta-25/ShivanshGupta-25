@@ -1,3 +1,10 @@
+<p align="center">
+<img
+src="https://raw.githubusercontent.com/ShivanshGupta-25/ShivanshGupta-25/assets/banner.png"
+width="100%"
+alt="Banner"/>
+</p>
+
 # Hi 👋, I'm Shivansh Gupta
 
 <h3 align="center">🚀 AI/ML Engineer | Full Stack Developer | Data Science Enthusiast</h3>
