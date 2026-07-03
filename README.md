@@ -49,15 +49,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShivanshGupta-25&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshGupta-25&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -71,24 +62,6 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivanshGupta-25&theme=tokyo-night"/>
 </p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ShivanshGupta-25&theme=tokyonight&row=2&column=4"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-> Enable the GitHub Action from Platane/snk and then use:
-
-```md
-![Snake](https://github.com/ShivanshGupta-25/ShivanshGupta-25/blob/output/github-contribution-grid-snake.svg)
-```
 
 ---
 
