@@ -51,13 +51,6 @@
 
 # 📊 GitHub Statistics
 
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShivanshGupta-25&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshGupta-25&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
@@ -99,12 +92,6 @@
 
 </p>
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShivanshGupta-25&theme=tokyonight&row=2&column=4"/>
-
-</p>
----
 
 # 📈 Contribution Graph
 
